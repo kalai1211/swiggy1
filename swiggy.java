@@ -3,7 +3,7 @@ class Main {
   public static void main(String[] args) {
     
     int first = 15;
-    int second = 20;
+    int second = 1928;
 
     // add two numbers
     int sum = first + second;
