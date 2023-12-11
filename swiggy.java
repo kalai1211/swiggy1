@@ -2,7 +2,7 @@ class Main {
 
   public static void main(String[] args) {
     
-    int first = 20;
+    int first = 15;
     int second = 20;
 
     // add two numbers
